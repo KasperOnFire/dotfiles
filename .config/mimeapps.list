@@ -1,0 +1,5 @@
+[Added Associations]
+application/x-debian-package=gnome-software-local-file.desktop;
+application/vnd.debian.binary-package=gnome-software-local-file.desktop;org.gnome.FileRoller.desktop;
+image/jpeg=eog.desktop;
+text/plain=libreoffice-writer.desktop;
